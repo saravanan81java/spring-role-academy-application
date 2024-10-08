@@ -1,0 +1,10 @@
+/Applications/code/academy/src/main/java/com/example/demo/academy/repository/StudentRepository.java
+/Applications/code/academy/src/main/java/com/example/demo/academy/domain/Student.java
+/Applications/code/academy/src/main/java/com/example/demo/academy/repository/CoachRepository.java
+/Applications/code/academy/src/main/java/com/example/demo/academy/startup/ApplicationStartupRunner.java
+/Applications/code/academy/src/main/java/com/example/demo/academy/domain/Coach.java
+/Applications/code/academy/src/main/java/com/example/demo/academy/config/SecurityConfig.java
+/Applications/code/academy/src/main/java/com/example/demo/academy/service/CustomADOAuth2UserService.java
+/Applications/code/academy/src/main/java/com/example/demo/academy/AcademyApplication.java
+/Applications/code/academy/src/main/java/com/example/demo/academy/controller/StudentController.java
+/Applications/code/academy/src/main/java/com/example/demo/academy/controller/CoachController.java
